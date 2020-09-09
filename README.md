@@ -65,7 +65,7 @@ The installation should include the `npm` tool. If you encounter errors when run
 
 It's time to get the source code for the application. You will use Git to copy ("clone") the code for this tutorial. 
 ```
-git clone https://github.com/web3rb/your-first-web3-dapp.git
+git clone https://github.com/Arturs1123/My-First-Web3-DApp.git
 # Once complete (few seconds), run this command to focus your terminal on the cloned directory:
 cd your-first-web3-dapp
 ```

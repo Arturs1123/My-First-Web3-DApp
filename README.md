@@ -67,12 +67,12 @@ It's time to get the source code for the application. You will use Git to copy (
 ```
 git clone https://github.com/Arturs1123/My-First-Web3-DApp.git
 # Once complete (few seconds), run this command to focus your terminal on the cloned directory:
-cd your-first-web3-dapp
+cd my-first-web3-dapp
 ```
 
 If VS Code doesn't automatically open to the newly cloned project directory, click `File` > `Open` and navigate to it. The project root directory contains about 7 files/directories (`src`, `package.json`, `README.md`...). VS Code may ask you if you trust the author of the code in the directory; you do.
 
-Open up `package.json` and change the `name` value from `your-first-web3-dapp` to `cryptopunks-demo-dapp`. Thoughtfully observe the `dependencies`. These are the tools and libraries that power your application. You don't need to know how they work but they are open source if you'd like to explore/audit. 
+Open up `package.json` and change the `name` value from `my-first-web3-dapp` to `cryptopunks-demo-dapp`. Thoughtfully observe the `dependencies`. These are the tools and libraries that power your application. You don't need to know how they work but they are open source if you'd like to explore/audit. 
 
 &nbsp; 
 > Optional: If you would like to back up your tutorial project on your own Git repository, <a href="https://stackoverflow.com/questions/5181845/git-push-existing-repo-to-a-new-and-different-remote-repo-server">follow these instructions</a>.
